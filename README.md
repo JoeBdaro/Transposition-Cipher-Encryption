@@ -1,1 +1,2 @@
 # Transposition-Cipher-Encryption
+This is a column transposition cipher encryption program that reads from a .txt file that the user provides the directory to and encrypts or decrypts based on weather the 1st letter is an E or a D then by transposing a number of columns specified in the second character of the line then proceeds to output it to another .txt file that the user will have to enter a directory for. If the file does not exist it will be created, and if the file does exist it will be appended to. 
